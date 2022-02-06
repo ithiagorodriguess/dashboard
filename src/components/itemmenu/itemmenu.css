@@ -1,0 +1,37 @@
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+} 
+
+.itemDefi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.GroupIcon{
+    color: #15282A;
+}
+
+.itemDefi span{
+    color: #15282A;
+    margin-left: 15px;
+    font-weight: 500;
+}
+
+.notificacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    min-width: 30px;
+    min-height: 30px;
+}
+
+.notificacao span{
+    font-size: 14px;
+}
